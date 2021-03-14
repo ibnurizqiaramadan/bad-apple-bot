@@ -1,0 +1,23 @@
+{
+  "name": "badapple",
+  "version": "1.0.0",
+  "description": "just for fun",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibnurizqiaramadan/bad-apple-bot.git"
+  },
+  "author": "xyrus10",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibnurizqiaramadan/bad-apple-bot/issues"
+  },
+  "homepage": "https://github.com/ibnurizqiaramadan/bad-apple-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security"
+  }
+}
