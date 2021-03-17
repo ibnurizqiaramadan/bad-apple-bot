@@ -6,8 +6,6 @@ Video : https://youtu.be/dhZWehAdz_k
  - Bot > Add Bot > Copy Token
 # Invite bot to your server
  - goto https://discord.com/oauth2/authorize?client_id=CLIENT_ID&scope=bot&permissions=8
-# Download Source Code 
- - The link is in the description (https://youtu.be/dhZWehAdz_k)
 # Bot Settings (make sure you have npm and nodejs installed)
  - goto bot folder
  - open Command Prompt or Terminal, goto bot folder and type npm install and then press Enter
